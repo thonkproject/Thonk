@@ -1,0 +1,39 @@
+		body{margin: 0 auto;}
+		.container
+		{
+			position:relative;
+			width:100%;
+			height:80%;			
+			border: #e8e8e8 solid 1px;
+			line-height: 3em;
+			margin: 0 auto;
+			padding-bottom:10px;
+		}
+		.container h1{padding-left:20px;color:#77903D;font-weight: bold;font-size:1.5em;}
+		.container legend{font-size:1em;}
+		.container input[type="text"], .container input[type="password"]
+		{width:375px;padding-left:10px;}
+		.container td{width: 400px;margin-left:10px;}
+		.container fieldset{
+			border: #e8e8e8 solid 1px;
+		}
+		.container legend{margin-left:20px;}
+		.container label{color: #77903D;font-weight: bold}
+		.container2{margin-left:25%;margin-right:25%;width:50%;padding-top:20px;}
+
+		.error
+		{color:red;}
+
+		#password_table, #username_table, #email_table{
+			margin: auto 0;
+			width: 100%;
+		}
+
+		legend{
+			font-weight: bold;
+			color:#77903D;
+			font-size:1.4em;
+		}
+
+		.confirm
+		{color:red;font-weight: bold;}

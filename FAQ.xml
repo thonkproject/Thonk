@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+	<FAQ>
+		<ORDER>1</ORDER>
+		<QUESTION>How do I create an account?</QUESTION>
+		<ANSWER>Sign up page is <![CDATA[<a href="registration.php">here</a>]]></ANSWER>
+	</FAQ>
+	<FAQ>
+		<ORDER>2</ORDER>
+		<QUESTION>How do I add a Node?</QUESTION>
+		<ANSWER>On the mapping page, choose a node and there is a link on the top right side of screen</ANSWER>
+	</FAQ>
+<FAQ><ORDER>3</ORDER><QUESTION>How do I edit a Node?</QUESTION><ANSWER>On the mapping page, choose a node and there is a link on the top right of the screen</ANSWER></FAQ><FAQ><ORDER>4</ORDER><QUESTION>How do I change my password?</QUESTION><ANSWER>Logging in with you username, then go to account settings and change your password</ANSWER></FAQ></DOCUMENT>
